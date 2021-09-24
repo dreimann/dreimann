@@ -14,9 +14,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/serverless-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <br />
 </p>
 
-#### 👨‍💻 Check out what I'm currently working on
