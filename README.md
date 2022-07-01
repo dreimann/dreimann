@@ -2,7 +2,7 @@
 
 - 👶 I felt in love with web development in 2005
 - 👀 At the moment, I'm mainly into AWS esp. serverless computing
-- 💼 I’m currently working as a Senior Consultant at CGI
+- 💼 I’m currently working as a Senior Consultant at Exxeta
 - 🏅 Competitor at WorldSkills 2015 and EuroSkills 2016
 - 📫 You can reach me via mail in German or English
 
