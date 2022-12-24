@@ -4,7 +4,6 @@
 - 👀 At the moment, I'm mainly into AWS esp. serverless computing
 - 💼 I’m currently working as a Software Engineer at ivv
 - 🏅 Competitor at WorldSkills 2015 and EuroSkills 2016
-- 📫 You can reach me via mail in German or English
 
 ## 🧰 Languages and Tools
 
