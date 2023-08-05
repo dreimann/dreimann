@@ -2,7 +2,7 @@
 
 - 👶 I felt in love with web development in 2005
 - 👀 At the moment, I'm mainly into AWS esp. serverless computing
-- 💼 I’m currently working as a Software Engineer at ivv
+- 💼 I’m currently working as a Software Architect at ivv
 - 🏅 Competitor at WorldSkills 2015 and EuroSkills 2016
 
 ## 🧰 Languages and Tools
